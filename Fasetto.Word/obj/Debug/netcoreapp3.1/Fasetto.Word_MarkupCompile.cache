@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Data\Dev\VS2019\WpfDev\26052021\Fasetto.Word\Fasetto.Word\obj\Debug\netcoreapp3.1\
+C:\Data\Dev\VS2019\WpfDev\Git\WPF\WPFDivers\Fasetto.Word\obj\Debug\netcoreapp3.1\
 Fasetto.Word
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-C:\Data\Dev\VS2019\WpfDev\26052021\Fasetto.Word\Fasetto.Word\App.xaml
-11407045341
-3388077283
-8984779963
+C:\Data\Dev\VS2019\WpfDev\Git\WPF\WPFDivers\Fasetto.Word\App.xaml
+21755149966
+4-746735723
+10-1916117997
 1941386419115
-MainWindow.xaml;
+MainWindow.xaml;Pages\LoginPage.xaml;
 
 False
 

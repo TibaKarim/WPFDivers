@@ -17,6 +17,7 @@ namespace Fasetto.Word
         /// The radius of the edges of the window
         /// </summary>
         private int mWindowRadius = 10;
+       
         #endregion
         #region Command
         public ICommand MinimizeCommand { get; set; }
@@ -84,7 +85,7 @@ namespace Fasetto.Word
         /// <summary>
         /// The padding of the inner content of the main window
         /// </summary>
-        public Thickness InnerContentPadding { get { return new Thickness(ResizeBorder); } }
+        public Thickness InnerContentPadding { get; set; } = new Thickness(0);
         public ApplicationPage CurrentPage { get; set; } = ApplicationPage.Login;
 
         #endregion

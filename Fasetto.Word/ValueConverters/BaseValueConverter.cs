@@ -16,6 +16,9 @@ namespace Fasetto.Word
         #region Markup Extension Methodes
         public override object ProvideValue(IServiceProvider serviceProvider)
         {
+            //if (mConverter == null)
+            //    mConverter = new T();
+            //return mConverter;
             return mConverter ??= new T();
         }
         #endregion

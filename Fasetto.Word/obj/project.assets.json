@@ -118,11 +118,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Data\\Dev\\VS2019\\WpfDev\\26052021\\Fasetto.Word\\Fasetto.Word\\Fasetto.Word.csproj",
+      "projectUniqueName": "C:\\Data\\Dev\\VS2019\\WpfDev\\Git\\WPF\\WPFDivers\\Fasetto.Word\\Fasetto.Word.csproj",
       "projectName": "Fasetto.Word",
-      "projectPath": "C:\\Data\\Dev\\VS2019\\WpfDev\\26052021\\Fasetto.Word\\Fasetto.Word\\Fasetto.Word.csproj",
+      "projectPath": "C:\\Data\\Dev\\VS2019\\WpfDev\\Git\\WPF\\WPFDivers\\Fasetto.Word\\Fasetto.Word.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Data\\Dev\\VS2019\\WpfDev\\26052021\\Fasetto.Word\\Fasetto.Word\\obj\\",
+      "outputPath": "C:\\Data\\Dev\\VS2019\\WpfDev\\Git\\WPF\\WPFDivers\\Fasetto.Word\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
