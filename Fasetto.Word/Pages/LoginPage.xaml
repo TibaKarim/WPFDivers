@@ -39,7 +39,7 @@
                             <TextBox Tag="Email" />
 
                             <!-- Password -->
-                            <TextBox Tag="Password" Margin="0 0 0 30" />
+                            <PasswordBox   Tag="Password" Margin="0 0 0 30" />
 
                             <!-- Next button -->
                             <Button IsEnabled="false" Content="Next" HorizontalAlignment="Center" />

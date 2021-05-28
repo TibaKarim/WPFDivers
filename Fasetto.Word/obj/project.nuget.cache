@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MeJsSkrJPy1oCcYDDoRqiNxkT1Pq/jYjIWwYTwHAit6TyNjVwh2ZChC2FeSyjDthX4q3f7obr11SM2uebVLUoQ==",
+  "dgSpecHash": "SPauzjgHWmtFd+e2cn97pmJaAsrjWtY4si9KlB6WJBoGqMJDLE2+9ok5nXULbUoNM1CcU8FNZ/6ZS4y/5co8xA==",
   "success": true,
-  "projectFilePath": "C:\\Data\\Dev\\VS2019\\WpfDev\\Git\\WPF\\WPFDivers\\Fasetto.Word\\Fasetto.Word.csproj",
+  "projectFilePath": "D:\\Dev\\WPFDev\\28052021\\WPFDivers\\Fasetto.Word\\Fasetto.Word.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\fody\\6.4.0\\fody.6.4.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.windows.shell\\3.0.1\\microsoft.windows.shell.3.0.1.nupkg.sha512",

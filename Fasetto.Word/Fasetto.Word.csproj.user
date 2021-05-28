@@ -18,6 +18,9 @@
     <Page Update="Pages\LoginPage.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="Styles\Texts.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Resource Update="Styles\Color.xaml">
       <SubType>Designer</SubType>
     </Resource>
@@ -25,9 +28,6 @@
       <SubType>Designer</SubType>
     </Resource>
     <Resource Update="Styles\Windows.xaml">
-      <SubType>Designer</SubType>
-    </Resource>
-    <Resource Update="Styles\Texts.xaml">
       <SubType>Designer</SubType>
     </Resource>
     <Resource Update="Styles\Fonts.xaml">

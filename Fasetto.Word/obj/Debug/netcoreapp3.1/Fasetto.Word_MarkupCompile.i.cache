@@ -1,5 +1,5 @@
 ﻿Fasetto.Word
-
+1.0.0.0
 
 winexe
 C#
@@ -12,7 +12,7 @@ TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 D:\Dev\WPFDev\28052021\WPFDivers\Fasetto.Word\App.xaml
 3-2022516476
 4-746735723
-13-1042497934
+15-2019636253
 1941386419115
 MainWindow.xaml;Pages\LoginPage.xaml;Styles\Texts.xaml;
 

@@ -18,7 +18,6 @@
     <Page Remove="Styles\Buttons.xaml" />
     <Page Remove="Styles\Color.xaml" />
     <Page Remove="Styles\Fonts.xaml" />
-    <Page Remove="Styles\Texts.xaml" />
     <Page Remove="Styles\Windows.xaml" />
   </ItemGroup>
 
@@ -53,10 +52,6 @@
     </Resource>
     <Resource Include="Styles\Fonts.xaml">
       <Generator>MSBuild:Compile</Generator>
-    </Resource>
-    <Resource Include="Styles\Texts.xaml">
-      <XamlRuntime>$(DefaultXamlRuntime)</XamlRuntime>
-      <SubType>Designer</SubType>
     </Resource>
     <Resource Include="Styles\Windows.xaml">
       <XamlRuntime>$(DefaultXamlRuntime)</XamlRuntime>

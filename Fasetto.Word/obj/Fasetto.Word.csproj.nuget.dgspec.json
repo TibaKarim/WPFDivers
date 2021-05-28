@@ -1,21 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Data\\Dev\\VS2019\\WpfDev\\Git\\WPF\\WPFDivers\\Fasetto.Word\\Fasetto.Word.csproj": {}
+    "D:\\Dev\\WPFDev\\28052021\\WPFDivers\\Fasetto.Word\\Fasetto.Word.csproj": {}
   },
   "projects": {
-    "C:\\Data\\Dev\\VS2019\\WpfDev\\Git\\WPF\\WPFDivers\\Fasetto.Word\\Fasetto.Word.csproj": {
+    "D:\\Dev\\WPFDev\\28052021\\WPFDivers\\Fasetto.Word\\Fasetto.Word.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Data\\Dev\\VS2019\\WpfDev\\Git\\WPF\\WPFDivers\\Fasetto.Word\\Fasetto.Word.csproj",
+        "projectUniqueName": "D:\\Dev\\WPFDev\\28052021\\WPFDivers\\Fasetto.Word\\Fasetto.Word.csproj",
         "projectName": "Fasetto.Word",
-        "projectPath": "C:\\Data\\Dev\\VS2019\\WpfDev\\Git\\WPF\\WPFDivers\\Fasetto.Word\\Fasetto.Word.csproj",
+        "projectPath": "D:\\Dev\\WPFDev\\28052021\\WPFDivers\\Fasetto.Word\\Fasetto.Word.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Data\\Dev\\VS2019\\WpfDev\\Git\\WPF\\WPFDivers\\Fasetto.Word\\obj\\",
+        "outputPath": "D:\\Dev\\WPFDev\\28052021\\WPFDivers\\Fasetto.Word\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
